@@ -1,0 +1,522 @@
+utterance_id,conversation_id,agent,message,topic
+0,0,agent_1,do you listen to albums?,Phatic
+1,0,agent_2,Yes I do. Have you listened to Hybrid Theory?,Psychology
+2,0,agent_1,Yes it is the best selling album of the century after all,Music
+3,0,agent_2,True. Do you know who Reel Big FIsh are?,Pets_Animals
+4,0,agent_1,"Yes the band that lost the rights to their own music, so sad",Music
+5,0,agent_2,Yes but they rerecorded everything and now are back on track,Music
+6,0,agent_1,Yes. Do you know which was the best album of 2014?,Music
+7,0,agent_2,Yes it was the dark side of the moon which was released 40 years prior,SciTech
+8,0,agent_1,Yes letting the quality of the album speak for itself,Music
+9,0,agent_2,True. Did you know Straight Outta Campton reached platinum without airplay?,Music
+10,0,agent_1,"Yes and they did not have a major tour either, that is amazing",Art_Event
+11,0,agent_2,Yeah it is. Twins in Japan released an album when they were 100,Music
+12,0,agent_1,Yes and it was a rap album of all genres,Music
+13,0,agent_2,Yes. DO you like rap music?,Music
+14,0,agent_1,Yes I like stuff from Tupac mainly and then some of EMinem and you?,Music
+15,0,agent_2,Me too. Tupac's music is in the library of congress for cultural significance,Music
+16,0,agent_1,Nice. Did you know EMinem wanted to be a comic book artist?,Music
+17,0,agent_2,Yes and his favorite character is spiderman,Movies_TV
+18,0,agent_1,Yes. Did you know Busta Rhymes was in the Rugrats movie?,Movies_TV
+19,0,agent_2,Yes the voice of Reptar Wagon. Nice chat,Music
+20,0,agent_1,"Same here, have a good one",Other
+21,1,agent_1,Hello do you follow football?,Sports
+22,1,agent_2,I do follow football. Do you?,Sports
+23,1,agent_1,I do.  The University of Iowa painted their visitors locker room completely pink!  lol  Wonder what that's all about?,SciTech
+24,1,agent_2,It's serious intimidation by Iowa! I wonder if it actually works?,Politics
+25,1,agent_1,Who knows? lol  In the 1960's top bowlers made twice as much as top football stars of that time.,Sports
+26,1,agent_2,That's strange. Kellen Moore is the only left handed QB.,Sports
+27,1,agent_1,I know.  I don't even know who he is?  lol,Movies_TV
+28,1,agent_2,He's the one throwing the ball with the wrong hand. Brad Johnson is much more talented. He throws and catches TDs.,Sports
+29,1,agent_1,Ha!  Nice!  Do you know what the highest scoring football game ever was?,Sports
+30,1,agent_2,60-10?,Other
+31,1,agent_1,Georgia Tech beat Cumberland 222-0,Sports
+32,1,agent_2,Wow! I watch football all the time and have never heard of Cumberland. I wonder if they had to disband the football team after that whooping!,Sports
+33,1,agent_1,They might have. lol  Former Patriots RB Benjarvus Green-Ellis never fumbled the ball in his NFL career.  Impressive.,Sports
+34,1,agent_2,Yeah. 6 years with 2 teams. He was a good player.,Sports
+35,1,agent_1,LOL  ESPN won an emmy for the superimposed yellow first down line they created.  I would be lost without it.,Other
+36,1,agent_2,Me too but that seems like a really low bar for an emmy...,Other
+37,1,agent_1,Right? Lol. Do you play any fantasy sports? There's actually a fantasy draft for the National Spelling Bee.,Movies_TV
+38,1,agent_2,"Yes and I am one of the losers (my word, not yours) that made the national spelling bee a drinking game. I took the day off of work for it!",Games
+39,1,agent_1,lol  A single fold in the brain makes the difference between perceiving reality and fantasy.  Interesting.  It's been fun chatting!,SciTech
+40,1,agent_2,Ditto! Have a great night!,Movies_TV
+41,1,agent_1,You have a great night too!,Phatic
+42,2,agent_1,Have you visited Washington DC?,Politics
+43,2,agent_2,I never have but hope to one day.,Phatic
+44,2,agent_1,"Me neither, but it seems a nice city, the National Mall in spring is filled with cherry trees in bloom.",Weather_Time
+45,2,agent_2,I've seen pictures.  Yes it does look beautiful.  I wonder if they have any goldfish in any of those water fountains there?  lol  The oldest goldfish lived to be 43 years old!,Pets_Animals
+46,2,agent_1,"That is a long time, I wonder if its remembers those 43 years or only the last 5 minutes. There is also a breed or jellyfish that is immortal. That is longer than 43, but I am not sure that I would want to be an immortal jellyfish.",Pets_Animals
+47,2,agent_2,"You and me both!  Since jellyfish are 98% water, they evaporate in the sun!",SciTech
+48,2,agent_1,"That must be painful, if they could sense pain. I don't feel bad for them for all the pain they inflict on people.",Psychology
+49,2,agent_2,haha  There was a koi fish named Hanako that lived for 226 years!,Pets_Animals
+50,2,agent_1,"Fish can be useful for research, the illnesses that can affect the zebrafish also affect humans.",Pets_Animals
+51,2,agent_2,Interesting!  There is a species of fish that lives on land all its adult life.  Have no idea what it's called though.  lol,Pets_Animals
+52,2,agent_1,"I think it is a mudskipper, I don't know it they live on land, but they can ""walk"".",Other
+53,2,agent_2,That might be it.  There is a fish called the barreleye fish that has a transparent head.  Do you like dogs?,Pets_Animals
+54,2,agent_1,"Yes I like dogs, but I don't have one. They are smart they understand pointing.",Other
+55,2,agent_2,That's neat!  Some dogs in Moscow have learned to use the subway!,Pets_Animals
+56,2,agent_1,"That is smart of them, in Istanbul you can donate empty water bottles and they feed stray dogs with the money.",Pets_Animals
+57,2,agent_2,"That's a good idea!  Dogs drink with the underside of their tongues.  So, that is perfect for them.",Pets_Animals
+58,2,agent_1,Do you think dogs can dance ? That would be cute.,Entertainment
+59,2,agent_2,"They might!  If they can learn over a 1000 words and can reason better than chimps, then they might have the ability to learn how to!  Do you like to dance?",Entertainment
+60,2,agent_1,"Yeah, but I don't practice much, Bruce Lee must have practiced a lot to win a cha-cha championship.",Sports
+61,2,agent_2,Nice!  I didn't know he was a dancer.  The first moonwalk ever recorded was performed by tap dancer Bill Bailey in 1955!  It's been fun chatting!,Music
+62,2,agent_1,"Martial arts are likes dances, but with more physical contact. Have a nice day.",SciTech
+63,3,agent_1,I've had dogs half my life and never knew they have 12 different bloodtypes.,Pets_Animals
+64,3,agent_2,That is amazing. I did not know that either. Dogs can even donate blood at dog blood drives.,Pets_Animals
+65,3,agent_1,"Yeah, but makes sense given that there are so many, and they often have operations.",Psychology
+66,3,agent_2,Very true. Did you know instabul has vending machines that release food and water for the cities stray dogs.,Pets_Animals
+67,3,agent_1,yes! I've seen it on Facebook. That's so nice what they do to care for the strays.,SciTech
+68,3,agent_2,"speaking of facebook, Did you know Myspace turned down an offer to by Facbook for $75 million?",SciTech
+69,3,agent_1,"Yes, I did. Huge mistake since no one uses My Space anymore.",Other
+70,3,agent_2,Exactly. I did not know that Facebook likes are illegal in the German state of Schleswig-Holstein.,SciTech
+71,3,agent_1,Me either. I think the odder fact is the one about Burger King encouraging you to unfriend 10 people.,Other
+72,3,agent_2,Yes. I would not even know how that would work. Mark Zuckerburg suffers from re-green colorblindness.,Psychology
+73,3,agent_1,"Well, I assume they are tracking the poll results. You can do that when you admin a page. I do.",Politics
+74,3,agent_2,Did you know sharks do not have rib cages?,Pets_Animals
+75,3,agent_1,"Yes. I think it's one reason they have to keep moving, and they can't live long if they get beached.",Psychology
+76,3,agent_2,yes. the weight can kill them,Religion
+77,3,agent_1,"Interesting, that they evolved earlier than dinosaurs and trees but still have that weakness about the rib cage.",SciTech
+78,3,agent_2,I wonder how they know that sharks can be trained to bark like dogs. I am not getting that close to find out.,Pets_Animals
+79,3,agent_1,"It's probably someting observed by researchers, and they don't say what kind of sharks do this. They aren't all dangerous.",Psychology
+80,3,agent_2,That is very true. Great whites meat up in the middle of the pacific ocean and the area is called white shark cafe.,Other
+81,3,agent_1,And even they don't attack as often as people think.,Psychology
+82,3,agent_2,Nope they have actually rescued sailors.,Pets_Animals
+83,3,agent_1,That I am curious to know what sharks have done this.,Psychology
+84,3,agent_2,Me too. Did you know that elephants can point like dogs?,Pets_Animals
+85,3,agent_1,"Yes, actually have seen them do that.",Movies_TV
+86,3,agent_2,Wow that is  incredible,Games
+87,3,agent_1,"Well, both species are very intelligent. Dogs are also not color blind like people think.",Pets_Animals
+88,3,agent_2,That's is new to me. Always grew up thinking they were.,Other
+89,3,agent_1,"They don't see as many colors as we do, but their vision isn't black and white",Other
+90,3,agent_2,Do you think alcoholism is growing?,Other
+91,3,agent_1,Not really. It's opoid use that's been exploding.,Phatic
+92,3,agent_2,This is very true. Doctors are cutting back in prescribing them.,Other
+93,3,agent_1,"As they should, they have been overprescribing.",Celebrities
+94,3,agent_2,absolutely. It is destroying some families.,Religion
+95,3,agent_1,"That article is sad. So many people hide these sorts of problems, and never resolve them.",Literature
+96,3,agent_2,It is very sad. It was great chatting with you.,Phatic
+97,3,agent_1,Same here!,Phatic
+98,3,agent_2,Have a good day.,Phatic
+99,4,agent_1,Have you heard about the Disney-Fox merger?  Comcast has dropped their bid.,Entertainment
+100,4,agent_2,Interesting. Disney was to pay 71.3 billion dollars.,Entertainment
+101,4,agent_1,That's a ton of money.  Their initial bid was $52.4 billion,Other
+102,4,agent_2,"Yes, they would get film, television studios and lots of cable channels.",Movies_TV
+103,4,agent_1,Disney's stock has gone up to $112.13 after closing up 1.3% on Thursday.  So apparently investors like this deal.,Other
+104,4,agent_2,There is also a battle between Comcast and Disney.,Entertainment
+105,4,agent_1,"Do you watch Netflix?  Jeff Bezos, Amazon CEO, said they are still the king of streaming entertainment.",Entertainment
+106,4,agent_2,"Yes love it, they do face some outside challenges.",Pets_Animals
+107,4,agent_1,"Speaking of Disney, Lion King was their first movie to be translated to Zulo.",Movies_TV
+108,4,agent_2,Walt Disney Pictures is regarded as one of the big six studios.,Entertainment
+109,4,agent_1,I have heard that Frozen was the first animated Disney film directed by a woman.  That is so great!,Entertainment
+110,4,agent_2,Frozen is great. The movie Up was another great hit for the company.,Movies_TV
+111,4,agent_1,I agree.  Did you ever play Nintendo?  It could only display 54 colors.  Man we have come a long way!,Games
+112,4,agent_2,"Yes, loved it. Yes it was a form of entertainment and delight.",Entertainment
+113,4,agent_1,Caesar reported that people bred chickens for entertainment in Britain.  How crazy is that?,Entertainment
+114,4,agent_2,"Weird, they consider the nfl entertainment rather than a sport.",Sports
+115,4,agent_1,Bill Nye the science guy got his break in entertainment because he looked like steve martin.,Entertainment
+116,4,agent_2,"He does, television has been used as a mass medium for news and entertainment.",Entertainment
+117,4,agent_1,Television is also used as a mass medium for advertising.,Movies_TV
+118,4,agent_2,"Yes, most deals on the tv show shark tank are never enacted!",Movies_TV
+119,4,agent_1,Really? I have seen that show a few times.,Phatic
+120,5,agent_1,Are you a fan of fish?,Pets_Animals
+121,5,agent_2,Do you like snakes? I see a fair number of them where I live.,Psychology
+122,5,agent_1,Interesting. I had a ball python when I was younger.,Pets_Animals
+123,5,agent_2,"Sorry I didn't see your question about fish, btw. I've tried to keep goldfish as pets several times over the years. I had a pet corn snake once too. How big was your python?",Pets_Animals
+124,5,agent_1,It wasn't that big. I kept bringing it to school so my parents made me get rid of it. It was an albino ball python. I could put it in my pocket. LOL,SciTech
+125,5,agent_2,"My corn snake was a little under a foot long. It died because it wasn't warm enough in my house during the winter, but not cold enough for it to fully hibernate. I see a lot of snakes here, mostly after my cats kill them.",Pets_Animals
+126,5,agent_1,That sucks. So the ball pythons when they are with their owner will roll up into a ball the size of your palm. So I could just put him in my pocket.,Pets_Animals
+127,5,agent_2,"I assume there was a negative reaction to bringing him to school, LOL?",SciTech
+128,5,agent_1,"No, everyone thought it was awesome, but they kept calling my parents. So I had to give him back to the aquarium I got him from, but when I was inside I secretly bought an iguana. LOL",Pets_Animals
+129,5,agent_2,They were probably sorry they didn't just let you keep the python.,Pets_Animals
+130,5,agent_1,"Yeah, I had all types of animals. One time I bought a ferret, that didn't go over so well because they smell.",Pets_Animals
+131,5,agent_2,"I got a kick out of the ferrets at the pet store. They were all sleeping lying across one another like kittens, only they were so long and thin they looked like strands of spaghetti.",Pets_Animals
+132,5,agent_1,"Yeah, they are expensive. My parents hated that and took it right back.",Politics
+133,5,agent_2,"Sounds like you've had bad luck with pets. I inherited a feral cat colony when my mom died, and got them all spayed and neutered and moved them onto my place. They're really a lot of fun.",Pets_Animals
+134,5,agent_1,Nice. Did you know that a seahorse is the only fish to have a neck?,Pets_Animals
+135,5,agent_2,It's definitely got an unusual shape for a fish. Interesting how all land vertebrates have four limbs because we're descended from lung-fish with four weight-bearing fins.,Pets_Animals
+136,5,agent_1,Interesting. I didn't know there was a jellyfish that was immortal. Did you?,Other
+137,5,agent_2,No. I remember reading there were sharks that were practically immortal though.,Psychology
+138,5,agent_1,"Interesting, I wonder what type they were. Well, nice chatting with you!",Other
+139,5,agent_2,I don't think we're done quite yet.,Phatic
+140,5,agent_1,"It is 10 and out, well anyways. Nice chatting with you.",Other
+141,5,agent_2,You too!,Phatic
+142,6,agent_1,Hello how are you today?,Phatic
+143,6,agent_2,"Hello, I am good. How are you?  Do you listen to jazz music?",Music
+144,6,agent_1,I like all music. Did you know jazz originated in the African American communities of New Orleans in the late 19th and early 20 century.,Music
+145,6,agent_2,i think I did know that.  Seems like I've seen a movie that referenced it.  Didn't they combine jazz with some brass band marches or something?,Movies_TV
+146,6,agent_1,It has roots in blues and ragtime.  It is now recognized as a major form of musical expression.,Music
+147,6,agent_2,I'm glad.  It's world wide now too.  Pakistan has a jazz orchestra!,Music
+148,6,agent_1,Cool jazz actually originated in the 1940s. It introduced calmer smoother sounds and long linear melodic lines you hear in todays jazz.,Music
+149,6,agent_2,i like that. There's a lot of good music from the 40s.,Music
+150,6,agent_1,Were you aware that Clint Eastwood is a lifelong jazz enthusiast.,Celebrities
+151,6,agent_2,No I wasn't.  i guess going by the characters he plays in movies I just never made the connection.,Movies_TV
+152,6,agent_1,Oh he is a big fan. He even scored several films including million dollar baby. That is a great movie.,Movies_TV
+153,6,agent_2,He did?  What instrument does he play?,Music
+154,6,agent_1,I think he played a few different instruments. There is a woman in Harlem who has held free jazz concerts at her apartment every Sunday or over 20 years.,Art_Event
+155,6,agent_2,That's cool. I bet she's pretty good to last that long.,Phatic
+156,6,agent_1,She occasionally has top performers stop by. I wonder if Clint has ever checked it out.,Music
+157,6,agent_2,You never know.  He's a top performer if he can do a movie score.,Movies_TV
+158,6,agent_1,I just figured it would be something that would interest him. Did you know jazz trumpeters grow out their goatees because it provides comfort while playing their instrument.,Music
+159,6,agent_2,No lol! I just assumed it was for fashion.,Fashion
+160,6,agent_1,So what do you think about Judge Judy making 123000 dollars per episode. I heard she retired not to long ago.,Movies_TV
+161,6,agent_2,"That surprises me. I mean, i'm shocked she made so much money and that she retired.",Other
+162,6,agent_1,She was the highest paid celebrity behind Lebron James. I cant believe she made that much.,Celebrities
+163,6,agent_2,"I can't either.  I knew her show was popular but not that popular!  Well, I've got to go for now.  It's been nice chatting with you!  Have a great day!",Other
+164,7,agent_1,Do you like beer?,Celebrities
+165,7,agent_2,"Good evening, yes I do.  How about you?",Other
+166,7,agent_1,"It's one of my favorite alcoholic drinks, I get worried because driving under the effect of them can be dangerous",Other
+167,7,agent_2,"Yes, it is and illegal and can get you put in jail with a big fine.",Politics
+168,7,agent_1,Yeah its a good thing theres a robot driven ban now that can save you the jail time and the fine,SciTech
+169,7,agent_2,"That's a good idea, it needs to implemented into many other cities.",SciTech
+170,7,agent_1,"I agree that can save many lifes and can be a great service, the self Driving company  Drive.ai is a popular one",Music
+171,7,agent_2,"Not to change the subject, but do you own a car?",SciTech
+172,7,agent_1,"I do own a car yes, its a Ford what about you?",SciTech
+173,7,agent_2,"Cool, I have an old school Cadillac Coupe De Ville, pearl white in color, just spent $ 3000 of my income tax refund on a new transmission and she drives like a top, now!",Other
+174,7,agent_1,"Nice, that is a great car, you know the history behind the name Cadillac?",Other
+175,7,agent_2,"No, what is the history?",Other
+176,7,agent_1,"The brand was founded by a French explorer called Anoine de la Mothe Cadillac, he founded the company in Detroit",Other
+177,7,agent_2,How very appropriate!  I read somewhere that it's legal to put flamethrowers on your car in South Africa to prevent carjackings.  I'm thinking about mounting me one on Nellie Belle to keep bad drivers away from her in heavy traffic.,SciTech
+178,7,agent_1,"That is crazy!! that sounds so dangerous, thats definetely not legal on the states so be careful lol",Politics
+179,7,agent_2,"Well, I wouldn't burn anybody with it on purpose.  More of an intimidation thing, if you get close enough to feel the heat from the flame you are too close, BACK OFF or your paint might get a little melted.  That's all.",Weather_Time
+180,7,agent_1,"It can also work for the snow, so what forms of entertainment do you like?",Entertainment
+181,7,agent_2,Video games.  What about you?,Movies_TV
+182,7,agent_1,"I also like video games I like to dance, music",Music
+183,7,agent_2,"That's cool, ever play Nintendo?",Games
+184,7,agent_1,I used to have a nintendo system yeah,SciTech
+185,7,agent_2,"It was the best, even though it could only display 54 colors.  Things have really progressed nowadays we have fortnite.",Psychology
+186,7,agent_1,"The world of video games has changed a lot I agree, anyway its been great chatting with you really cool facts",Movies_TV
+187,7,agent_2,"You too, enjoy the rest of your Friday evening.  I'm going to slap a coat of wax on ole Nellie Belle. Talk to you later, friend.",Movies_TV
+188,8,agent_1,Do you know  much about the ancient thinkers?,Other
+189,8,agent_2,I dont know a whole lot. I have heard of them before though.,Other
+190,8,agent_1,"I guess there a book that can fill both you and me in, Lives of Ancient Thinkers.  Not sure I'll read it.",Literature
+191,8,agent_2,Im not reeally much of a reader myself to be honest. I did read that the suns mass is about three quarters hydrogen and the rest is helium?,Literature
+192,8,agent_1,"I meant to say Lives of Eminent Philosophers.  Just helium and hydrogen?  I once heard this planet is running out of helium, it will be all gone one day.",Literature
+193,8,agent_2,I don't see it being possible to get it from the sun. I'm not sure what we really use helium for other than blowing up balloons,SciTech
+194,8,agent_1,"Probably right, maybe some industrial usages.  Not sure I want to get too close to the sun, even if it's not as hot as a lightening bolt.",Weather_Time
+195,8,agent_2,the sun produces enough energy in one second to meet our needs for 500000 years. We need to learn how to harness it.,SciTech
+196,8,agent_1,"I guess that's the aim of solar panels.  Despite all that energy, it still pales into comparison with other stars in the galaxy.",SciTech
+197,8,agent_2,There is a lot of work to be done with solar panels to make the cost effiecient.,Other
+198,8,agent_1,"It's a process, incremental steps towards harnessing that power.  As Diogenes might have said, probably not though, Rome wasn't built in a day.",Other
+199,8,agent_2,"Did you know that Caesar once visited Britain, and noted that they breed chickens for entertainment.",Entertainment
+200,8,agent_1,"They really know how to have a good time there, I know there is a lack of sun there, raining all the time, maybe that had something to do with it.",SciTech
+201,8,agent_2,I dont know maybe. Did you ever have a nintendo.,Other
+202,8,agent_1,"No, I had an Atari back in the day, I think my younger brother may have had a Nintendo.",Games
+203,8,agent_2,I loved playing nintendo when I was younger. Did you know it only could display 54 colors.,Games
+204,8,agent_1,"That seems plenty to me, how many colors do you need.  I suppose it's all to do with shades of colors.  I'd have to compare then and now to see the difference.",SciTech
+205,8,agent_2,I didnt notice any lack of color. I just thought it was really cool to be able to play a game on the tv. Lol.,Movies_TV
+206,8,agent_1,"Hey, it's better than watching chickens.  On my old Atari we had just two colors at times, I was still addicted to it.  I should have been reading as a kid but I wasn't",Psychology
+207,8,agent_2,I remember playing atari. I dont think we ever had one though. i think my cousin did. We played donkey kong.,Games
+208,8,agent_1,Well it was good talking to you.  I'm going to go and read about ancient philosophers.  Goodbye.,Literature
+209,8,agent_2,Have a great day.,Phatic
+210,9,agent_1,did you know that unfortunately eighty percent of earth's naturally occuring forests have been eliminated?,SciTech
+211,9,agent_2,"I expect that the next decade or so will show some dramatic changes in the environment. The earth formed over 4.5 billion years ago, but we are changing it quickly ourselves.",SciTech
+212,9,agent_1,"yes we are, and somehow Earth was made and when that happened a day was only 5.5 hours long, that's a fast day!",SciTech
+213,9,agent_2,The work day would be over before you finished commuting. The UN has an ambassador to extra terrestrials. I wonder who ended up with that job.,Other
+214,9,agent_1,"haha ya I want that job, I would imagine you do a whole lot of NOTHING all day long haha",Psychology
+215,9,agent_2,"And who is going to fire you? You can't fail at doing the job. If the aliens need helium to live, they'll have problems pretty soon. We'll be helium free by the end of the century.",Other
+216,9,agent_1,"ya that is scary, do you like piano music at all? I play the piano and it's wild an aluminum grand piano was built for the Hindnburg airship, it only weight 356 pounds, I don't know if you've seen a real piano but they normally weight thousands",Music
+217,9,agent_2,"I wonder about the sound of an aluminum piano. A bit tinny, I would think.",Music
+218,9,agent_1,"haha ya I would like to listen to it if only the Hindenburg didn't explode, and apparently on Britains highest moutain someone had put a piano on top of it in 2006 for some reason haha",Music
+219,9,agent_2,Maybe in case an airship crashed on top of the mountain?,Travel_Geo
+220,9,agent_1,"haha ya or to have some kind of entertainment when you get to the top? haha, I do like how Freddie Mercury used the same piano used by Paul McCartney though that is cool",Entertainment
+221,9,agent_2,Have you seen the bio-pic about Freddie? Haven't seen it yet myself. I would like to see somone try to play the tune circus galop for auto-pianos.,Music
+222,9,agent_1,"No I haven't seen it yet but I want to, I've heard a lot of good things, apparently that piano that Freddie used was used by Paul to record the song Hey Jude",Music
+223,9,agent_2,Seems to be a lot of song-making magic in that piano. I wonder what planet will be the next in the solar system to have a piano.,Music
+224,9,agent_1,haha yes or we should make a rocket ship to fly pianos around to other planets! they need to be aluminum I'm sure to save on weight haha,SciTech
+225,9,agent_2,"The atmosphere would be different so the sound of the piano would be different, too.",SciTech
+226,9,agent_1,"do you play any instruments? I know that Venus spins clock wise and is the only planet to do so, I wonder if that would affect my piano playing haha",Music
+227,9,agent_2,The lack of seasons on Venus might affect inspiration for songs.,Music
+228,9,agent_1,"yes you would have a lot less to sing about if the weather is always the same, aka bad! you'd always be in a bad mood haha",Music
+229,9,agent_2,The building blocks of life have been detected in a aystem 455 light-years away. Maybe music would help life develop there.,Music
+230,9,agent_1,yes that is true! I wonder if aliens would develop a piano or come up with a whole new instrument! I want to go to their rock concerts with all their alien music haha,Music
+231,9,agent_2,"Sounds like fun! Well, I enjoyed chatting!",Other
+232,9,agent_1,thank you my friend perhaps we will meet these aliens someday!,Other
+233,10,agent_1,hello how are you?,Phatic
+234,10,agent_2,I'm doing great. Do you dance?,Entertainment
+235,10,agent_1,ot really But I do like operea and I have seen candide,Psychology
+236,10,agent_2,Babies spontaneously dance when they hear music.,Entertainment
+237,10,agent_1,"and smile I read that too, and I thought it was cute",Literature
+238,10,agent_2,Most everything makes a baby smile...or scream.,Psychology
+239,10,agent_1,"lol, I did not know tolkien you laugh you lose competitions when reading terrible poetry",Literature
+240,10,agent_2,What is Tolkien. Is that a writer?,Literature
+241,10,agent_1,he wrote lord of the rings and the hobbit,Literature
+242,10,agent_2,I thought that is who you meant. I loved the Hobbit. So different than other stories out there.,Literature
+243,10,agent_1,I never would of thought Tupac did Ballet,Celebrities
+244,10,agent_2,I know and to be able to act too in the Nutcracker.,SciTech
+245,10,agent_1,Ballet is tough on the body if they go through 4 pairs of shoes a week,Fashion
+246,10,agent_2,It would seem to be expensive too if you have to buy that many shoes. I wonder it they are expensive to buy?,Fashion
+247,10,agent_1,"they must be, I also did not know Bruce Lee was a champion dancer",Celebrities
+248,10,agent_2,"And the cha-cha at that! Out of all the dances in the world, he must have really liked the beat.",Sports
+249,10,agent_1,I wonder if he moved really fast,Other
+250,10,agent_2,I would hope that he would keep the beat but if he added extra leg movements he could have really looked like he was moving all over the place.,Psychology
+251,10,agent_1,I wonder if he would give my jackson a run for his money even with his patented shoes?,Other
+252,10,agent_2,"Probably, except for the deep lean that Michael was famous for.",Celebrities
+253,10,agent_1,"lol, it was nice talking to you",Other
+254,10,agent_2,Nice talking with you too. Have a great day!,Phatic
+255,11,agent_1,Hey are you a big golf fan? It is so popular in our country!,Sports
+256,11,agent_2,"No, I don't really watch golf or participate in the sport.  I do think the courses are beautiful though.",Sports
+257,11,agent_1,Yes they are. Golf courses in USA take up more space than Rhode Island and delaware combined.,Travel_Geo
+258,11,agent_2,"That is true, it's not something that I realized.  I think that it's still a good thing to have as both a sport and a form of exercise.",Sports
+259,11,agent_1,Yes for sure. Many people play golf even actors like Samuel L. Jackson.,Movies_TV
+260,11,agent_2,"True, I was surprised that he was allowed to put a clause in his film contract that would allow him to play twice a week during production.",Movies_TV
+261,11,agent_1,Yeah smart guy to do that! Babe Ruth was also a famous golfer at one point.,Sports
+262,11,agent_2,That was another surprising thing that I didn't realize.  I guess it makes sense because he was both an athlete and played outdoors a lot.,Other
+263,11,agent_1,"Yeah. The average american golf course uses 312,000 gallons of water per day. Wow.",Sports
+264,11,agent_2,I thought that was a lot of water that is used per day.  I guess that's one of the downsides of the game.,Games
+265,11,agent_1,Yeah for sure. There is even one in Dubai that requires 4 million gallons per day.,Math
+266,11,agent_2,The one in Dubai seems a bit excessive.  I wonder why the usage is so much there?,Other
+267,11,agent_1,Probably because its a desert I assume and they go through so much. It's interesting how its one of the few sports that doesn't have a standardized play area.,Travel_Geo
+268,11,agent_2,I guess that a probable explanation.  I guess that is one of the drawbacks of the game.,Games
+269,11,agent_1,Yeah. It's funny when people dance after they get a whole in one. Dance is cool because it has aesthetic and symbolic value.,Entertainment
+270,11,agent_2,Dance does have a lot of positive values.  It can also be fun and a form of exercise.,Entertainment
+271,11,agent_1,Yeah true. Although I don't want to do ballet because they use so many shoes.,Fashion
+272,11,agent_2,That would be pretty expensive I would think!  I think it's amazing that babies spontaneously dance when they hear music and smile more when they hit the beat.,Entertainment
+273,11,agent_1,Haha that is so cute. Bruce Lee was a championship dancer!,Celebrities
+274,11,agent_2,I think it's funny that Bruce Lee won the Hong Kong cha-cha championship in 1958.  I bet he was pretty good!  I also thought it interesting that Michael Jackson had a patent on a device used to achieve the extreme lean in his dance moves.,Entertainment
+275,11,agent_1,I would love to try that! Explains how he did that move. He was an amazing dancer!!,Other
+276,12,agent_1,"Duterte's joke was in incredibly poor taste, considering his strict ""war on drugs""  What do you think about his comment?",Politics
+277,12,agent_2,I know.  He is a dictator.  He does not care about what others say about him.,Other
+278,12,agent_1,I heard that almost 5000 Philippine people have been killed in the past couple of years because of his policies.  It's awful.,Politics
+279,12,agent_2,"Yes, the killings began in 2016.",Literature
+280,12,agent_1,"Speaking of dictatorships, what do you think about the Vox party gaining seats in Spain?",Art_Event
+281,12,agent_2,I don't know what will happen.  The socialist group is losing control.,Psychology
+282,12,agent_1,"It might be beneficial that all parties have to work together to make decisions, that way one won't dominate over the other.",Art_Event
+283,12,agent_2,True.  People in spain are concerned about illegal immigration.,Politics
+284,12,agent_1,"It's interesting, it's seems that the far-right is always running on anti-immigration sentiments.",Politics
+285,12,agent_2,"Prime minister Pedro, is he with the right or the left group?",Politics
+286,12,agent_1,"I don't know for sure, he is in the minority government, so he's not with the Socialist party.",Art_Event
+287,12,agent_2,"So, he might be with the right group.  If he could win when he was with the minority that he would be more powerful if he is with the majority.",Politics
+288,12,agent_1,"Yes, and I bet he will heed the call for early national elections because of it.",Politics
+289,12,agent_2,You are probably right.  I hope Spain would not go back to fascism.,Politics
+290,12,agent_1,"What's going on with Garcia, the former Peruvian president?",Politics
+291,12,agent_2,I am not sure but I think he has a legal problem.  Corruption?,Politics
+292,12,agent_1,"Yeah, something to do with illegal construction payments. I think the US Justice Dept uncovered it.",Politics
+293,12,agent_2,I wonder how our Justice Dep uncovered the bribery.,Politics
+294,12,agent_1,"It was during a plea deal for someone else, sometime in 2016.  Almost $800 million in bribes for government contracts.",Politics
+295,12,agent_2,I wonder if the contractors were American businesses.  Corruption is rampant in that part of the world.,Politics
+296,12,agent_1,I think it's rampant everywhere!  Look at Sri Lanka!,Politics
+297,12,agent_2,I read about it too.  Prime Minister Rajapaksa is in a big trouble too.,Politics
+298,12,agent_1,"Seriously, he's barely holding onto power.  The people have no confidence in him.",Psychology
+299,12,agent_2,You are right.  I have to run.  It was nice chatting with you.  Bye.,Other
+300,13,agent_1,Hi! Have you ever remodeled a house?,Phatic
+301,13,agent_2,Yes once. It cost twice as much as estimated and took twice as long.,Other
+302,13,agent_1,"Yeah, that's what I'm afraid of especially since I'm stripping down walls and replacing it to cater to millennials with a more modern vibe.",Psychology
+303,13,agent_2,"I feel sorry for you, let them eat cake!",Food_Drink
+304,13,agent_1,"Yeah, that's the same for cars, I'm not sure how long I should hold a car for, but McDonald's actually invented the drive-thru to accommodate soldiers who weren't allowed to get out of their cars while in uniforms. I use the drive thru lanes pretty frequently!",SciTech
+305,13,agent_2,"Yes, I heard that about McDs. Personally, I keep a car until it dies and refuses to run again, but then possessions mean nothing to me, only their usefulness.",SciTech
+306,13,agent_1,"Oh ok, that's some great insight, people have been telling me to trade in a car after about five years so I'd at least get some value out of it. Crazy to think how far we've come along since horse carriages and wooden trunks!",Pets_Animals
+307,13,agent_2,"People all have different ideas about the worth of things. I haven't bought a new car for decades only used, and I pay cash. No debt, only liability insurance, and never pay more than 5K they last on average 5 years before serious problems occur and then you just walk away.",SciTech
+308,13,agent_1,"Oh wow, I think that's some great insight! Just scared cars might break down on me and I have no idea how to fix anything and anytime cars requires fixing, its several hundred dollars!",SciTech
+309,13,agent_2,"I used to work on them when I was a kid, but now they are too complicated and take computers to trouble shoot.",Politics
+310,13,agent_1,"Oh yeah, and with countries like South Africa where its legal to equip cars with flame-throwers, I guess that doesn't help either. I wonder if the cars come equipped with a ""launch"" button",SciTech
+311,13,agent_2,That is amazing. What a neat way to get through traffic jams. I guess each country has a certain way they want their cars to look and perform. I just read that there is an arrow mnext to the gas symbol on your car that tells you which side you have to pump on.,SciTech
+312,13,agent_1,"Yes~! I actually only recently learned about that too, that comes extremely useful when I'm in rental cars. Do you listen to any music or anything when you're driving in your car?",SciTech
+313,13,agent_2,"An oldie station, though their idea of oldies keep advancing through time. Guess that happens to all of us. I love music however.",Music
+314,13,agent_1,"Yeah, oldies do advance through time, I also love music, I wished I played an instrument. Steven Spielberg even played the clarinet for the Jaws soundtrack, as if he wasn't talented enough already.",Music
+315,13,agent_2,"I didn't know that. I never played either, all thumbs when it comes to the dexterity needed to play.",Games
+316,13,agent_1,"Haha, even at 100 years, Japan still released rap albums of two twins! I wonder how many people bought their songs.",Music
+317,13,agent_2,"I have never been found of rap, every generation has it's own music and turns up their noses at 'new' stuff.",Music
+318,13,agent_1,"I do enjoy music by Phil Collins, I guess I can't be the only one since it's been recorded in the English, Italian, German, Spanish, and French versions for the Tarzan soundtrack.",Music
+319,13,agent_2,"Yes, artists now go global. In my time only the biggest names could do that. I even know the music of an Icelandic band and I kind of like it.",Music
+320,13,agent_1,"Oh wow, speaking of Iceland, I hope to visit that amazing country some day.",Art_Event
+321,14,agent_1,Hi.  Do you still subscribe to TV (cable or satellite) or have you cut the cord?,Movies_TV
+322,14,agent_2,i have cut it. i do not like to watch the tv. it is a distraction and a time waster. do you still subscribe?,Movies_TV
+323,14,agent_1,I have cut the cord as well.  I can get local news / weather with an over-the-air antenna.  I still watch via streaming (Netflix and Amazon Prime) - no commercials and I can stop at anytime or binge watch if I want to.  Did you know that there are more than 750 episodes of Pokemon.  That's more than 250 hours or 10 days of binge watching!,Other
+324,14,agent_2,please do not binge watch pokemon. that will destroy your brain. you must resist! remain strong!,SciTech
+325,14,agent_1,"It is not something I would binge watch.  But some comedies are worth it (over several days).  Like ""3rd Rock from the Sun"".  Did you know it beat out Seinfeld, Friends, and Frasier for the 1998 Golden Globe for Best Comedy Series?",SciTech
+326,14,agent_2,"it must be a great show to binge watch. i will put 3rd rock on my binge list. it is not a new show, but it must be a classic",Music
+327,14,agent_1,"it ended in the early 2000s.  Another one I stream from time to time is the Simpsons.  When I am in the right mindset, it can be an entertaining political satire / comedy.  Bart is so essential to the show that there is only one episode in which he does not appear or is mentioned!",Movies_TV
+328,14,agent_2,i will look for that episode! i wonder if it is really that funny without bart in it. he is the best!,Movies_TV
+329,14,agent_1,"I agree.  Earlier I brought up Seinfield.  Did you follow his series ""Comedians in Cars"" on Netflix?",Movies_TV
+330,14,agent_2,"i did not, but it sounds pretty funny. what do they talk about? seinfeld is a funny guy.",Movies_TV
+331,14,agent_1,"Its an impromptu dialogue on the way to a coffee shop often in a vitage / classic car.  It went on for 9 seasons.  So are you a car, truck, or SUV person?",SciTech
+332,14,agent_2,"i prefer the car. i like cars, especially fast ones. i cannot afford one though! LOL",SciTech
+333,14,agent_1,"I live in a rural area (on the edge of suburbia) so I have a truck because I have some livestock.  In a bit of trivia, did you know it is legal to have flame throwers on your vehicle to prevent carjacking?  I wonder if auto theft is higher there than here?  It certainly implies it!",Politics
+334,14,agent_2,There is a lot of crime there.,Music
+335,14,agent_1,"Well, one thing I cannot do with my truck is go thru the McD's drive-thru.  Its a Ford F-350 with dual rear tires, so it sits too far out to make the food / money exchange.  I thought McD put drive thru as a way to bring in more customers (and it did that too) but it was for GIs who could not get out of their cars wearing regulation fatigues!",Food_Drink
+336,14,agent_2,that is great! good for mcd's. they were thoughtful of the customers that needed them the most. military food is terrible! and fast food is necessary for good morale among the troops! LOL,Food_Drink
+337,14,agent_1,"Now days, cars can come with built-in cellular service.  Do you have that and do you use it to stream TV in you car?",Movies_TV
+338,14,agent_2,i do not but i think it could be a distraction to drivers! i would not want that. i am a bad enough driver as it is.,Psychology
+339,14,agent_1,"Very good point!  I don't have because of the cost.  If we go on a roadtrip, then I will download stuff to the Ipad for the kids, like Thomas the Tank Engine for the youngest.  Did you know that George Carlin narrated more than 50 episodes of Thomas?  I would have never thought that  given his salty tongue!",Literature
+340,14,agent_2,"george carlin, the comedian? he is a great talent, but i hope he didnt use any of those seven words! LOL",Other
+341,14,agent_1,"True, he may be a beloved comedian, but I would have never considered him a narrator for a ""G"" rated young kids show.  Neither would have I thought Alec Baldwin to be able to hold his tongue and narrate Thomas as well for more than 50 episodes!",Movies_TV
+342,14,agent_2,"yes, alec would have spewed something hateful and then apologized right there on the recording. i guess they had to carefully edit the recording. LOL",Music
+343,14,agent_1,"Back to comedy and Carlin, are you a fan of British Comedy, like Monty Python?",Movies_TV
+344,14,agent_2,"I do like the Python. they made some great movies, like holy grail.",Religion
+345,14,agent_1,"I liked it as well.  Interestingly enough, the creator of the ""Python"" programming language named it in part as a tribute to the Monty Python comedy group.",Movies_TV
+346,14,agent_2,"that is quite an homage. the inventor must have loved their work. anyway, great chat!",Literature
+347,14,agent_1,"Thanks, and same to you!",Phatic
+348,15,agent_1,Do you have a facebook account?,SciTech
+349,15,agent_2,"Yes, I do. Speaking about facebook, did you know that 1/3 of all divorce filings in the US in 2011 contained the word 'facebook'? Astonishing, right?",Politics
+350,15,agent_1,"1/3 of all divorce fillings? wow that is crazy, I guess Facebook can be a dangerous tool if you forget to log out or give a like to the wrong picture",SciTech
+351,15,agent_2,I agree. It can also be the source of much fake news. 30% of Americans rely on Facebook as their primary source of news!,SciTech
+352,15,agent_1,"They do? I wouldnt trust Facebook to be my main source of news lol, did you hear about that crazy Burger King promotion?",News
+353,15,agent_2,"No, what was that about? And I would not trust facebook as my primary news source either. They have no credibility",SciTech
+354,15,agent_1,"I agree, there are a lot of fake news in the media, and the promotion was about unfriending 10 friends on Facebook, you would get a free whopper by doing that",News
+355,15,agent_2,There are actually more people on facebook right now than there were in the world 200 years ago!,SciTech
+356,15,agent_1,"That makes sense almost everyone has an account these days, amazing how much Facebook is worth, $104 billion dollars",SciTech
+357,15,agent_2,They also have a total of 58 different gender options!,Other
+358,15,agent_1,"Thats a lot, I can only think of 5 or 6 tops lol, wonder what the other 52 are",Music
+359,15,agent_2,Two of the 58 are Male and Female but 56 other custom genders is still a lot,Pets_Animals
+360,15,agent_1,"It is, Mark Zuckerberg is a genius though, do you know that Facebook is blue primarily bacause he suffers from a form of colorblindness!!",SciTech
+361,15,agent_2,Really? That's very interesting. Facebook was actually originally intended to be only used by Harvard students. I am suprised it blew up so quickly!,SciTech
+362,15,agent_1,"MySpace must regret the decision of not buying the company back in 2005, they had the chance to buy it for $75 million",Other
+363,15,agent_2,"Yep. In Ohio, it is illegal to warm up your car. I found that very surprising!",SciTech
+364,15,agent_1,"It is surprising, just like how its legal to equip your car with flame-throwers in South Africa all to prevent carjacking",SciTech
+365,15,agent_2,That must be very dangerous! Google's self driving cars have an 'aggressive' mode.,SciTech
+366,15,agent_1,"Im not sure about self driving cars, Jann Mardenborough became a pro driver by beating 90,000 people",Psychology
+367,15,agent_2,A man in New York bought a barn filled with classic cars. Talk about lucky!,Other
+368,15,agent_1,"That is lucky, how much did he buy the barn for?",Other
+369,15,agent_2,"I am not sure, but I am sure that it was much less than the amount that the cars were worth",Other
+370,15,agent_1,"Yeah, I bet, classic cars can be worth a lot of money specially if they are in great conditions.",Other
+371,16,agent_1,"Hello, are you interested particularly in politics?",Politics
+372,16,agent_2,"Here and there! I do keep up with it! Although I don't know what to think of Regan's suggestion he could envision a limited nuclear war, even if it was she's ago! What about you?",Psychology
+373,16,agent_1,"That's crazy! I honestly would have expected that to be said be Trump, not Reagan. Although I know Trump is threatening military action against North Korea, which makes me feel like a limited nuclear war is in the possibility eventually, that's a scary thought.",Politics
+374,16,agent_2,"Indeed. But then again, Trump's threats of military action are a bluff according to HR McMaster. So we shall see I suppose...",Politics
+375,16,agent_1,"Oh I'm sure we will, it's funny to see two similar minds be at battle, in terms of both Trump and Kim Jong Un having a lot of media around them with their own agenda to promote the,",Politics
+376,16,agent_2,"So true. And hey, maybe the Trump's critics are questioning his sanity in order to help convince Kim that he's serious! Ha! Who knows, though?",Psychology
+377,16,agent_1,"Ahah fair enough. Honestly though if I try to be objective, I think Kim Jong Un is more of a nut. I mean he edits pictures to depict a different history than reality!",Other
+378,16,agent_2,"You are right! Just as crazy people like Stalin and Mao did. Must be something crazy leaders do? Then again, Kim is no idiot though, just psychotic. They say he even learned to drive at the age of 3!",Psychology
+379,16,agent_1,"Ahah see? I wonder how many people get brainwashed into thinking he really did all that! I personally don't think anything he says can be trusted, we don't even know how old he really is!",Other
+380,16,agent_2,Agreed! And can you believe Kim was voted sexiest man alive by the Onion and China of all places believes it? Ha!,Religion
+381,16,agent_1,"Ahah maybe power really is that alluring. He certainly tries to appear like a loving, fun person, after all he ordered the renovation of their theme parks, who would have even thought they had theme parks!",Literature
+382,16,agent_2,"I know, right? Plus no one knows how old he is. Not to mention he ordered the execution of his own uncle in 2013!",Religion
+383,16,agent_1,"Wow that's crazy, presidents really do do some fascinating things. It seems in general presidents are less focused than we think, like the president of Indonesia has released 3 pop albums, WHILE in office!",Politics
+384,16,agent_2,"Exactly. It's crazy! And can you believe Trump isn't even in the top three wealthiest presidents of all time in the US? It's actually Washington, Jefferson and JFK!",Politics
+385,16,agent_1,"That's really shocking! Maybe they measure for inflation, otherwise I don't know how they got that! I bet what makes Trump even more mad is that the White House isn't as large as the president's GUEST house!",Other
+386,16,agent_2,"Wow! Ha! You would think it'd be the opposite! Heck, I wonder how Americans would feel if the presidential runner up in elections automatically became vice president as it used to be up until 1805!",Politics
+387,16,agent_1,"It's probably a good thing that got changed ahah, I wonder if aliens existed on other planets, maybe they'd have different election systems. Then again it's hard to even imagine life elsewhere, like there's a planet where it rains glass! Imagine being there.",Psychology
+388,16,agent_2,"Hey, who knows? AstronomerAstronomers did detect a planetary system with building blocks of life roughly 455 light years away so perhaps we'll know how their election systems work one day!",Politics
+389,16,agent_1,"Well we definitely can't live in some of the planets closer by haha, especially not Uranus, which spins and rolls around the sun, so maybe looking 455 light years away is our only hope!",SciTech
+390,16,agent_2,"Ha! That is true. Or even Venus where it doesn't tilt and therefore, the planet has no seasons because of that! In fact, It's the only planet that rotates clock wise!",SciTech
+391,16,agent_1,"Hopefully one day we will find life on another planet somewhere! Anyways it was nice chatting with you, have a good day!",SciTech
+392,17,agent_1,I was trying to figure out if I should watch some Family Guy or play the Playstation. Today is my day off work and I want to relax.,Other
+393,17,agent_2,Well video games can be a good way to relax. DO you know what they were originally called?,Games
+394,17,agent_1,"No, i have no idea. What?",Other
+395,17,agent_2,Cathode ray tube amusement devices,SciTech
+396,17,agent_1,"Oh geez, thats a horrible name! What he heck.",Other
+397,17,agent_2,Yeah I am glad they changed it to something that is shorter and makes much more sense,Psychology
+398,17,agent_1,I know that the department of defense used 1760 playstations to build a supercomputer because it was the cheapest way to do it. Crazy fun fact!,Games
+399,17,agent_2,Yeah that is something. Do you know who does the voice of Woody in the video games?,Movies_TV
+400,17,agent_1,Oh my gosh I love that movie but I never knew that he brother did voices. That is funny! I can see how they would sound alike probably though. I learned that ts illegal for kids 16 years old and younger in South Korea to play video games past midnight. Thats a weird law.,Movies_TV
+401,17,agent_2,"It is a weird law and my question is, how to they enforce that to begin with",Politics
+402,17,agent_1,"Right! I would not want to live somewhere that had such invasive laws. Stephen Fry did the narration for the Little Big PLanet, Hitchhikers Guide to the Galaxy. He also did the Harry Potter video games, another fun fact.",Movies_TV
+403,17,agent_2,"Well, talk about talent. Do you know how much we play video games as a planet in wekk?",Movies_TV
+404,17,agent_1,"No, how much do we play video games? I am not even able to guess.",Movies_TV
+405,17,agent_2,Well a game designer calculated that is is 3 billion hours in a week,Games
+406,17,agent_1,"Oh geez, that is scary! Maybe South Korea is on to something,lol. I like those games that are interactive. I have tried the one called Brothers: A Tale of Two Sons. It was a neat experience if you like to really be engaged.",Games
+407,17,agent_2,"Nice, I do not think I have played that ones before. Did you know PS3's are being used to study black holes?",Other
+408,17,agent_1,"What , really! That super high tech and crazy! I didnt know that NASA would use something we all have at home.",SciTech
+409,17,agent_2,"Go figure, right? Did you ever watch That 70s SHow?",Movies_TV
+410,17,agent_1,"Oh yeah, I dont really know a lot about that show but I wanted to be a fan! I love the 70's vibe and the bell bottoms!",Other
+411,17,agent_2,"I guess in some countries it just does not work, maybe because they made it verbatim",Politics
+412,17,agent_1,"Oh, wow. The lingo was not meant to be translated and I can see how that could be really weird, not groovy man!",Religion
+413,17,agent_2,"Yeah, different type of humor there. Nice chatting with you :)",SciTech
+414,18,agent_1,Are you a fan of baseball by any chance?,Sports
+415,18,agent_2,Yes I watch baseball from time to time. It's interesting how both teams take turns batting and Fielding,Sports
+416,18,agent_1,It is. Do you happen to know why baseball managers wear uniforms?,Sports
+417,18,agent_2,"Yes I do, I think it's because they can actually play in the game if necessary right? Did you know that a seventeen-year-old actually struck out Babe Ruth? I wonder what became of her",Games
+418,18,agent_1,Yes it is. I did not know that. That's very impressive.,Phatic
+419,18,agent_2,"There is a rule in baseball I'd never heard about though, have you heard about what happens if a player catches a baseball in their hat?",Sports
+420,18,agent_1,I have not. What happens?,Music
+421,18,agent_2,"Yes if you catch the ball in your hat then you will get three bases actually, that's actually really good they should try that more often in games",Games
+422,18,agent_1,I had no idea. Did you also know that baseball in insanely popular in Japan?,Sports
+423,18,agent_2,"I did know that I think that the stadiums are a lot more fun in Japan as well, what do you think about the Chicago Cubs by the way? They actually won the first World Series back to back",Sports
+424,18,agent_1,It's so popular that they are shocked that it's America's past time. They had a very long lull after that until recently.,Other
+425,18,agent_2,"Yeah that makes sense. Did you hear about the fact that the MLB will typically use about 160,000 baseball's a year",Sports
+426,18,agent_1,I did not. I knew it had to be a lot but I would not have guessed that high. Do you know the alternate name for kickball in Canada?,SciTech
+427,18,agent_2,Isn't it called soccer baseball LOL that's a really dumb name. on a different note though do you ever watch the news,Sports
+428,18,agent_1,It is. I do watch the news sometimes but I get more of my news from newspaper apps.,News
+429,18,agent_2,Yeah I mostly get my news online too. But it is funny to me that the Simpsons was making fun of Fox News so then they were going to sue them LOL,News
+430,18,agent_1,Wow! That's ridiculous. They would never be successful with parody laws anyway.,Politics
+431,18,agent_2,"No I don't think so. But what is also interesting is that Fox News tried to make a conservative Daily Show television show, but it was cancelled after only 13 episodes",Movies_TV
+432,18,agent_1,They certainly are not known for their comedy so I am not surprised. Did you know that it was created by Republican media strategist Richard Ailes and Richard Nixon?!,Politics
+433,18,agent_2,"No I didn't know that. Did you also know that the median age of viewers for Fox News is 68, that is pretty old",News
+434,18,agent_1,I'm not surprised by that either. Especially when I see who is posting things they would do on Facebook.,SciTech
+435,19,agent_1,hey there do you have Netflix by chance?,Other
+436,19,agent_2,"Hello - how are you? I do have Netflix, what about you?",Phatic
+437,19,agent_1,"I'm good, and ya I like Netflix I like Stranger things a lot, can't believe they started way back in 1997",Other
+438,19,agent_2,I love Netflix too,Other
+439,19,agent_1,ya its crazy that it takes up about 33% of all internet traffic,Travel_Geo
+440,19,agent_2,That is crazy. Did you know Netflix spends 20 times more on postage than bandwidth?,Other
+441,19,agent_1,"no that is wild, I see why they want to switch to all digital, also crazy that netflix and youtube together make up half of all internet traffic, I watch youtube all the time",SciTech
+442,19,agent_2,That is also crazy. I didn't realize Reed Hastings was inspired to startup Netflix after racking up $40 in late fees on Apollo 13.,Other
+443,19,agent_1,"haha ya that is a wild thing, good movie though, sad that blockbuster didn't buy them when they had the chance",Movies_TV
+444,19,agent_2,I agree. Crazy that Netflix is now worth $2 billion.,Other
+445,19,agent_1,"yup, they were offered to blockbuster for 50 million, thats quite a lot of value appreciation!",Other
+446,19,agent_2,That is a very big jump in appreciation. Did you know that people fantasy draft the national spelling bee lol?,Movies_TV
+447,19,agent_1,"oh I did, they also do fantasy congress, people seem to do fantasy everything these days haha",Movies_TV
+448,19,agent_2,lol that's hilarious. I only do fantasy football. What about you?,Movies_TV
+449,19,agent_1,"ya I only do fantasy football as well, ahve you read any books by Terry Pratchett btw? he writes fantasy novels",Sports
+450,19,agent_2,I have not read any books by him. Wonder if they are any good?,Music
+451,19,agent_1,"ya I don't know, I just know he was knighted for ""services to literature"" so hopefully they are really good",Art_Event
+452,19,agent_2,Interesting. Did you know a single fold in the brain makes the difference between reality and fantasy?,Movies_TV
+453,19,agent_1,"I didn't, would you ever check out that fantasy novel from that janitor in chicago, I guess it was like 15k pages haha",Movies_TV
+454,19,agent_2,haha I think I would have to pass on that. Way too long for me.,Other
+455,19,agent_1,"yup, it could be amazing but it could also be that long and horrible haha",Other
+456,19,agent_2,It was good talking to you!,Phatic
+457,20,agent_1,Did you hear about that serial killer Shawn Grate?,Other
+458,20,agent_2,"I have not, who was he?",Other
+459,20,agent_1,"He is a serial killer that is goog looking, Shawn Grate a normal citizen",Other
+460,20,agent_2,"yikes, those are the scary ones, easy to lure people. How did they catch him?",Movies_TV
+461,20,agent_1,"He attracted women with his looks, seemed normal and then he would lure the and kidnap them",Psychology
+462,20,agent_2,Dang that sounds like something straight from television. Do you watch much television?,Movies_TV
+463,20,agent_1,"I do watch TV, what about you?",Phatic
+464,20,agent_2,"Me too, I love the animation shows like south park and family guy. Do you ever watch those?",Movies_TV
+465,20,agent_1,I used to love them havent watched them in a while both are really funny TV shows,Movies_TV
+466,20,agent_2,"For sure, did you ever watch the south park making fun of family guy?",Movies_TV
+467,20,agent_1,"I think I did, it was a long time ago though, so funny, I like when they mock celebrities and also other shows",Movies_TV
+468,20,agent_2,"yea it was awesome, they were calling family guy out for stealing stuff from the simpsons. The simpsons liked it so much they sent south park flowers as a thank  you lol",Movies_TV
+469,20,agent_1,"I bet they have a great relationship with each other, another series I liked was that 70s show",Other
+470,20,agent_2,"I loved that show, it is on netflix now. I heard there was a UK version of that show that didn't do too hot",Movies_TV
+471,20,agent_1,The remake was really bad so bad it got cancelled after only 10 episodes,Movies_TV
+472,20,agent_2,"yikes, I wonder how many careers that killed. Probably a different style of humor that the UK doesn't like",Fashion
+473,20,agent_1,"Yeah I think so, did you also watched Pokemon back in the day or even now?",Art_Event
+474,20,agent_2,"I used to watch Pokemon religiously, I wonder if they ever caught them all",Music
+475,20,agent_1,"I dont think so there are a lot of Pokemons now, 150 seemed like a lot at the beggining",Other
+476,20,agent_2,"right, I think I saw there was like 750 episodes so I hope they did lol! It was so nice chatting with you!",Movies_TV
+477,20,agent_1,"Yeah thats about it, its been 16 years of Pokemons, and its been great chatting with you thanks,",Other
+478,21,agent_1,Steve Birnbaum plays for the D.C. United and had some culture shock after coming to the nations capital.  Do you like D.C?,Movies_TV
+479,21,agent_2,"Yeah I heard that Steve is a good defender in that league.  I do, I have been there twice before, how about you?",Sports
+480,21,agent_1,"I was there and like all the free museums, including Natural History.  But, it is very fast-paced just like Birnbaum says.",Other
+481,21,agent_2,"Yeah it is very fast paced, and I think it is very cool that the museums are free.",SciTech
+482,21,agent_1,Birnbaum seems to have felt a bit intimidated by everyone in suits as he often dressed more informally and worried people thought he was unemployed.,Psychology
+483,21,agent_2,"That is pretty funny, I guess Birnbaum is also an avid golfer.",Sports
+484,21,agent_1,Over 5 seasons he has been an MLS all-star.,Sports
+485,21,agent_2,"That is quite an accomplishment. On a different note, do you like dogs?",Pets_Animals
+486,21,agent_1,I have a dog!  Do you like them?  If you are in Istanbul you can help out the stray dogs by recycling your plastic bottles in a vending machine that dispenses food and water to them,Food_Drink
+487,21,agent_2,"I love dogs, but don't have one right now.  That is so cool! Very interesting fact.",Other
+488,21,agent_1,Dogs have 12 different blood types!  I wonder if it's because of breeding or some from different wolf families?,Pets_Animals
+489,21,agent_2,"That is so many, wow!  I am not sure but that is a very good question.  I guess they drink with the underside of their tongues.",Pets_Animals
+490,21,agent_1,What are some things you learned from the passages?,Religion
+491,21,agent_2,"Lots of interesting things, I guess Antartica has a disc golf course!",Sports
+492,21,agent_1,"Is that different from regular golf that has 18 holes, sand traps, hazards and bunkers?",Sports
+493,21,agent_2,"Yeah it is, scored the same way, but uses discs and metal baskets instead of balls and holes.",Sports
+494,21,agent_1,"Seems like golf courses use a lot of water.  The average one uses 312,000 gallons per day.  That sounds expensive.  Too bad not enough rain!",Weather_Time
+495,21,agent_2,"Holy cow that is a ton of water, but I guess they have to keep all grass in good shape.",Religion
+496,21,agent_1,Sounds like Babe Ruth was a famous golfer.  That's right once a famous golfer in America.,Sports
+497,21,agent_2,"I never knew that, very interesting.  Did you know he played himself in a popular movie?",Movies_TV
+498,21,agent_1,"I would like to see that!  Have you ever been to Georgetown near D.C.?  If you like coffee, try out The Coffee Bar.  You might find Birnbaum there. That would be fun!",Other
+499,22,agent_1,hello,Phatic
+500,22,agent_2,"Hi there, do you follow politics much?",Politics
+501,22,agent_1,"no, I do not know much about politics. But this article is helping me learn some things, My first article is about Michael Cohen with regards to president trump",Politics
+502,22,agent_2,Yeah I guess they are everywhere in the news. Do you know who are the three wealthiest presidents in the US?,News
+503,22,agent_1,"yes JFK, Washington, and Jefferson",Other
+504,22,agent_2,Yeah. The president of Indonesia is a pop star on top of being a president,Politics
+505,22,agent_1,did you know that elmo is the only non-human to testify before the U.S. congress? I did not know that,Politics
+506,22,agent_2,Did not know that either and I am starting to think what elmo testified about.,Movies_TV
+507,22,agent_1,"yeah no idea what he testified about, will google that later. Interesting, the term congress came from a parley during battle in the late middle ages",SciTech
+508,22,agent_2,Haha that is cool. Did you know that Fantasy congress actually exists?,Movies_TV
+509,22,agent_1,no I did not know,Phatic
+510,22,agent_2,Yeah and apparently they draft members and get the points based on legislative success,Politics
+511,22,agent_1,did you know that there are three subway lines for congressmen to move between the capitol and the house and senate offices?,Politics
+512,22,agent_2,Yeah I guess they need to be safe and not ride with the rest of the public. Did you know women were elected to congress before they were able to vote?,Politics
+513,22,agent_1,"That is so pitifully sad, women have taken way too much crap. Did you know a man in france impersonated a government official and managed to sell the Eiffel tower two times?",Other
+514,22,agent_2,"not sure how he pulled that off, but wow. did you know the republicans and the democrats play a game ever year of baseball for over 100 years now?",Games
+515,22,agent_1,"Wow, I guess baseball is more popular than I thought. Did you know the norwegian government donated 1 billion dollars to help save the amazon rainforest? I didn't know it was in such need of saving",Sports
+516,22,agent_2,"Yeah it sure is, the majority of it has been cleared, it is really sad. In Nevada, the government owns 86% of the land",Politics
+517,22,agent_1,Did you know wikileaks actually published the government's plan to destroy wikileaks,Politics
+518,22,agent_2,Haha they are just too good. On the other hand  it seems the government is granting to much power now that they cannot be persecuted according to the geneva convention,Politics
+519,22,agent_1,"Something I can't wrap my brain around, is the fact that the presidents guest house is larger than the white house",SciTech
+520,22,agent_2,I am wondering if they maybe get a lot of guests. Not sure though. Nice chat:),Other
