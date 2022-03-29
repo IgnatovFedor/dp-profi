@@ -68,3 +68,6 @@ F1-micro (sklearn.metrics.f1_score с `average='micro'`)
 
 Складывается суммы F1-micro за основную задачу и оценки эксперта за дополнительную.
 
+##
+
+adglkjlkj
